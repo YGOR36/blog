@@ -1,0 +1,3 @@
+Dec 05 2019 10:40:47
+{"type":2,"message":"Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' (this will throw an Error in a future version of PHP)","file":"C:\\xampp\\htdocs\\blog\\wp-content\\themes\\jevelin-child\\functions.php","line":73}
+

@@ -1,0 +1,179 @@
+/*
+Theme Name: Jevelin Child | Shared by VestaThemes.com
+Description: Child theme for Jevelin theme
+Author: Shufflehound
+Author URI: http://shufflehound.com
+Template: jevelin
+*/
+
+/* Add your custom CSS below */
+
+html body, html .menu-item a,
+.sh-dropcaps{
+    font-family: "Open Sans";	
+}
+
+.blog-style-medium .post-meta-thumb{
+	max-width: 318px;
+	float: right;
+}
+.post-left-side {
+    width: 30%;
+    margin-right: 0%;	
+}
+.post-right-side {
+    width: 65%;  
+	padding: 80px;
+	background: #fff;
+	height: 100%;
+	margin-top: 40px;	
+}
+#wrapper > .sh-page-layout-default {
+    padding: 60px 0px;
+    background: #f4f0f0;
+}
+.post-meta-one {    
+    display: none;
+}
+.post-container {    
+    height: 380px;
+}
+.button-view{
+	background: url(../../uploads/2016/11/plus.svg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	width: 30px !important;
+	height: 30px;
+}
+a.post-meta-comments {
+    display: none;
+}
+.post-content {  
+    font-size: 16px;
+}
+.post-title h2 {
+    font-size: 20px;
+}
+.sh-contacts-widget-item a,
+.sh-contacts-widget-item{
+    color: #47c9e5 !important;
+}
+.post-content p {
+    padding-bottom: 50px;
+}
+.post-meta-two {
+    border-top: none;   
+}
+.sh-filter-blog {    
+    margin-top: -60px !important;
+	width: 100%;
+	padding: 20px 0;
+background: #fff;	
+}
+.sh-filter {    
+    margin-left: 50%;    
+    transform: translateX(-50%);
+	width: 100%;
+}
+.sh-portfolio-filter-style3 .sh-filter-item-content{
+	border-radius: 0;
+}
+.sh-portfolio-filter-style4 .sh-filter-item:not(.active) .sh-filter-item-content {
+    border: none;
+}
+.sh-portfolio-filter-style3 .sh-filter-item.active .sh-filter-item-content,
+.sh-portfolio-filter-style4 .sh-filter-item:hover .sh-filter-item-content{
+    background: transparent !important;
+color: inherit !important;
+border-bottom: solid #47c9e5 !important;
+}
+#materiais {    
+    float: right;
+}
+.fas.fa-grin {
+    color: #f2c821;
+}
+.sh-dropcaps {
+    font-size: 16px !important;
+    font-weight: normal;   
+}
+.primary-desktop {    
+    display: none;
+}
+.blog-single.blog-style-large .sh-contacts-widget-item {
+    display: none;
+}
+.blog-single.blog-style-large .post-meta-thumb {
+    float: left;
+	padding-right: 30px;
+}
+.blog-style-masonry .sh-contacts-widget-item,
+.sh-footer{
+    display: none;
+}
+.masonry-shadow .post-container {    
+    height: auto;
+}
+header.primary-mobile {
+    display: none !important;   
+}
+
+
+
+
+
+@media only screen and (min-width: 200px) and (max-width: 800px) {
+
+.post-right-side{
+	padding: 30px;
+	margin-top: 0;	
+	height: auto;
+}
+	.post-content {
+    font-size: 12px;
+}
+	.sh-contacts-widget-item a, .sh-contacts-widget-item {    
+    font-size: 12px;
+}
+	.post-title h2 {
+    font-size: 16px;
+}
+	.post-meta-thumb {    
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+	.sh-filter{
+		width: 100%;
+	}
+	
+}
+
+@media only screen and (min-width: 800px) and (max-width: 1250px) {
+	.post-right-side {   
+    margin-top: 0;
+}
+	.sh-filter{
+		width: 100%;
+	}
+}
+
+
+/*@media only screen and (min-width: 200px) and (max-width: 800px) {
+	.post-meta-thumb {    
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+	.post-right-side{
+	padding: 30px;
+	margin-top: 0;	
+	height: auto;
+}
+	
+}*/
+
+
+
+
+
+
+

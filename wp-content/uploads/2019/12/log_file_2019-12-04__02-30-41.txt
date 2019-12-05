@@ -1,0 +1,45 @@
+
+---Downloaded files---
+The import files for: Fitness were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/blog
+Data file = C:\xampp\htdocs\blog/wp-content/uploads/2019/12/demo-content-import-file_2019-12-04__02-30-41.xml
+Widget file = C:\xampp\htdocs\blog/wp-content/uploads/2019/12/demo-widgets-import-file_2019-12-04__02-30-41.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+Custom Framework file loaded.
+
+---Importing widgets---
+Blog Widgets : 
+
+Pesquisar - No Title - Widget already exists
+Categorias - Categories - Widget already exists
+Nuvem de tags - Tags - Widget already exists
+Shufflehound Social - No Title - Widget already exists
+
+Page Widgets : 
+
+Pesquisar - No Title - Widget already exists
+Shufflehound Recent Posts - No Title - Widget already exists
+
+Footer Widgets : 
+
+Shufflehound Contacts - No Title - Widget already exists
+Shufflehound Recent Posts - No Title - Widget already exists
+Shufflehound Information - No Title - Widget already exists
+
+WooCommerce Widgets : 
+
+Procurar produto - No Title - Imported
+Filtrar produtos por preço - Filter by price - Imported
+Categorias de produto - Categories - Imported
+Produtos - Products - Imported
+
+
+
+---pt-ocdi/after_import---
+
